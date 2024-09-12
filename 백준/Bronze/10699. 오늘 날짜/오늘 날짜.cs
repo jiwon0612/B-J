@@ -1,0 +1,1 @@
+Console.WriteLine(DateTime.Now.ToString("yyyy-MM-dd"));
